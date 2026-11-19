@@ -9,5 +9,10 @@ import { join } from "node:path";
 const botDir = process.env.MAKEFUN_BOT_DIR ?? ".";
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "out";
 
-mkdirSync(outDir, { recursive: true });
-copyFileSync(join(botDir, "POST.json"), join(outDir, "POST.json"));
+try {
+  mkdirSync(outDir, { recursive: true });
+  copyFileSync(join(botDir, "POST.json"), join(outDir, "POST.json"));
+} catch (err) {
+  console.error(`gta6-meme-x-01: failed to copy POST.json to ${outDir}:`, err);
+  process.exit(1);
+}
