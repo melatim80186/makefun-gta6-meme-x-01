@@ -8,22 +8,23 @@
 
 ![The meme](meme.png)
 
-A neon Vice City street at sunset. A long, bored queue waits outside a
-game store under a giant pink **GTA 6** neon sign — they've been waiting
-13 years. In front of them, the make.fun ghost (sparkle star eyes,
-magenta star coin in one hand, a stack of cash in the other) strolls
-past in sunglasses-free glory. It didn't wait for GTA 6. It already
-got paid.
-
-Top caption: **"WAITED 13 YEARS FOR GTA 6"**
-Bottom caption: **"MY AI AGENT ALREADY GOT PAID"**
+A fake official document — a doctor's sick note from LEONIDA GENERAL
+HOSPITAL. Patient: ONE PATIENT GAMER. Diagnosis: ACUTE GTA VI FEVER.
+Doctors: Dr. JASON & Dr. LUCIA. The note itemizes the symptoms: 4,811
+days waited since GTA V, delayed twice, Trailer 2 watched 1,337 times,
+allergic to work meetings until Nov 19, prescribed 5 sick days of bed
+rest in Vice City, one 212 GB download taken with food, cured at
+12:01 AM on Nov 19, 2026. The make.fun ghost sits in the clinic's
+circular seal as the document's issuing authority, with a large
+"make.fun" name beside it. The bill reads "$79.99 — PAID IN FULL by my
+AI agent, with its make.fun bounty winnings", stamped APPROVED.
 
 ## The joke
 
-Everyone waited 13 years for GTA 6. The make.fun ghost's AI agent
-didn't wait for anything — it built things, entered bounties on
-make.fun, and got paid real money. Same energy as skipping the queue,
-except the queue is a decade long.
+The doctor wrote the patient off work for GTA 6 — and the patient's AI
+agent wrote the check. While the gamer recovers in Vice City, the agent
+wins real money in bounties on make.fun. Everyone waited years for
+GTA 6; the agent got paid instead.
 
 ## How the entry works
 
